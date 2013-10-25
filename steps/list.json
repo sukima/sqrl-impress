@@ -60,7 +60,18 @@
         "data": {
             "x": 0,
             "y": 8000,
-            "scale": 2,
+            "scale": 5,
+            "rotate": 0
+        }
+    },
+    {
+        "uri": "simple.html",
+        "id": "simple",
+        "class": "step",
+        "data": {
+            "x": 0,
+            "y": 6500,
+            "scale": 1,
             "rotate": 0
         }
     }
