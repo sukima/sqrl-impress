@@ -20,5 +20,15 @@
             "rotate": 90
         }
     },
+    {
+        "uri": "takepic.html",
+        "id": "takepic",
+        "class": "step",
+        "data": {
+            "x": 3000,
+            "y": 2000,
+            "scale": 2,
+            "rotate": 90
+        }
     }
 ]
