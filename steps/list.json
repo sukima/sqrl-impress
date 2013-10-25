@@ -8,5 +8,17 @@
             "y": 0,
             "scale": 4
         }
+    },
+    {
+        "uri": "login.html",
+        "id": "login",
+        "class": "step",
+        "data": {
+            "x": 3000,
+            "y": 0,
+            "scale": 1,
+            "rotate": 90
+        }
+    },
     }
 ]
