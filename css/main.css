@@ -15,3 +15,14 @@
 .clearfix {
   clear: both;
 }
+
+.step .columns {
+  margin-top: 50px;
+}
+
+.step .columns .clipart {
+  float: left;
+  height: 400px;
+  width: 200px;
+  margin-right: 50px;
+}
