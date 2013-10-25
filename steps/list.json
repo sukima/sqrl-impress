@@ -85,5 +85,16 @@
             "scale": 4,
             "rotate": -90
         }
+    },
+    {
+        "uri": "sqrlid.html",
+        "id": "sqrlid",
+        "class": "step",
+        "data": {
+            "x": -8000,
+            "y": 6000,
+            "scale": 4,
+            "rotate": -180
+        }
     }
 ]
