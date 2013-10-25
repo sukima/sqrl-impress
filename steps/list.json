@@ -41,5 +41,16 @@
             "scale": 3,
             "rotate": 90
         }
+    },
+    {
+        "uri": "welcome.html",
+        "id": "welcome",
+        "class": "step",
+        "data": {
+            "x": 0,
+            "y": 5000,
+            "scale": 2,
+            "rotate": 0
+        }
     }
 ]
