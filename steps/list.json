@@ -52,5 +52,16 @@
             "scale": 2,
             "rotate": 0
         }
+    },
+    {
+        "uri": "other.html",
+        "id": "other",
+        "class": "step",
+        "data": {
+            "x": 0,
+            "y": 8000,
+            "scale": 2,
+            "rotate": 0
+        }
     }
 ]
