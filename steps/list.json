@@ -30,5 +30,16 @@
             "scale": 2,
             "rotate": 90
         }
+    },
+    {
+        "uri": "check.html",
+        "id": "check",
+        "class": "step",
+        "data": {
+            "x": 3000,
+            "y": 5000,
+            "scale": 3,
+            "rotate": 90
+        }
     }
 ]
