@@ -3,3 +3,15 @@
     font-size: 58px;
     font-weight: bold;
 }
+
+.right {
+  float: right;
+}
+
+.left {
+  float: left;
+}
+
+.clearfix {
+  clear: both;
+}
