@@ -74,5 +74,16 @@
             "scale": 1,
             "rotate": 0
         }
+    },
+    {
+        "uri": "behind.html",
+        "id": "behind",
+        "class": "step",
+        "data": {
+            "x": -4000,
+            "y": 6000,
+            "scale": 4,
+            "rotate": -90
+        }
     }
 ]
