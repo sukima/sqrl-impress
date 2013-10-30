@@ -162,5 +162,16 @@
             "scale": 4,
             "rotate": -180
         }
+    },
+    {
+        "uri": "siteqr-2.html",
+        "id": "siteqr-2",
+        "class": "step",
+        "data": {
+            "x": -8000,
+            "y": -2000,
+            "scale": 4,
+            "rotate": -180
+        }
     }
 ]

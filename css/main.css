@@ -43,3 +43,8 @@ p.spaced {
 
 small { font-size: 0.4em; }
 code { font-style: monospace; }
+
+.note {
+  margin-top: 20px;
+  font-size: 0.5em;r
+}
