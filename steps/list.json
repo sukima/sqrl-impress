@@ -96,5 +96,16 @@
             "scale": 4,
             "rotate": -180
         }
+    },
+    {
+        "uri": "sqrlid-2.html",
+        "id": "sqrlid-2",
+        "class": "step",
+        "data": {
+            "x": -8000,
+            "y": 3000,
+            "scale": 4,
+            "rotate": -180
+        }
     }
 ]

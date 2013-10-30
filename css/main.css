@@ -26,3 +26,7 @@
   width: 200px;
   margin-right: 50px;
 }
+
+p.spaced {
+  margin-top: 50px;
+}
