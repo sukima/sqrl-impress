@@ -140,5 +140,16 @@
             "scale": 4,
             "rotate": -180
         }
+    },
+    {
+        "uri": "identitykeys-3.html",
+        "id": "identitykeys-3",
+        "class": "step",
+        "data": {
+            "x": -12000,
+            "y": 1000,
+            "scale": 4,
+            "rotate": -180
+        }
     }
 ]
