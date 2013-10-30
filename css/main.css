@@ -27,9 +27,19 @@
   margin-right: 50px;
 }
 
+.step .columns .clipart.right {
+  float: right;
+  height: 400px;
+  width: 200px;
+  margin-right: 50px;
+}
+
 p.spaced {
   margin-top: 50px;
 }
 
 .red { color: red; }
 .green { color: green; }
+
+small { font-size: 0.4em; }
+code { font-style: monospace; }
