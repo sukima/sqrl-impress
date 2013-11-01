@@ -3,4 +3,6 @@ sqrl-impress
 
 An impress.js presentation for SQRL
 
-    $ grunt server # for live reloads, open http://localhost:9000/
+In development open a live reaload server at http://localhost:9000/ with:
+
+    $ grunt server
