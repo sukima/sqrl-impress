@@ -250,5 +250,49 @@
             "scale": 2,
             "rotate": -90
         }
+    },
+    {
+        "uri": "vs.html",
+        "id": "vs",
+        "class": "step",
+        "data": {
+            "x": 0,
+            "y": -2000,
+            "scale": 2,
+            "rotate": -90
+        }
+    },
+    {
+        "uri": "vs-1.html",
+        "id": "vs-1",
+        "class": "step",
+        "data": {
+            "x": 800,
+            "y": -2000,
+            "scale": 2,
+            "rotate": -90
+        }
+    },
+    {
+        "uri": "vs-2.html",
+        "id": "vs-2",
+        "class": "step",
+        "data": {
+            "x": 1400,
+            "y": -2000,
+            "scale": 2,
+            "rotate": -90
+        }
+    },
+    {
+        "uri": "vs-3.html",
+        "id": "vs-3",
+        "class": "step",
+        "data": {
+            "x": 2200,
+            "y": -2000,
+            "scale": 2,
+            "rotate": -90
+        }
     }
 ]
