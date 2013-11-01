@@ -173,5 +173,16 @@
             "scale": 4,
             "rotate": -180
         }
+    },
+    {
+        "uri": "keypair.html",
+        "id": "keypair",
+        "class": "step",
+        "data": {
+            "x": -8000,
+            "y": -4500,
+            "scale": 4,
+            "rotate": -180
+        }
     }
 ]
