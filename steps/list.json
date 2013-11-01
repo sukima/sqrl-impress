@@ -239,5 +239,16 @@
             "scale": 2,
             "rotate": -90
         }
+    },
+    {
+        "uri": "password.html",
+        "id": "password",
+        "class": "step",
+        "data": {
+            "x": -2000,
+            "y": -2000,
+            "scale": 2,
+            "rotate": -90
+        }
     }
 ]
