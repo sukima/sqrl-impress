@@ -228,5 +228,16 @@
             "scale": 4,
             "rotate": -180
         }
+    },
+    {
+        "uri": "newuser.html",
+        "id": "newuser",
+        "class": "step",
+        "data": {
+            "x": -4000,
+            "y": -2000,
+            "scale": 2,
+            "rotate": -90
+        }
     }
 ]
