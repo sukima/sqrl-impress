@@ -217,5 +217,16 @@
             "scale": 4,
             "rotate": -180
         }
+    },
+    {
+        "uri": "welcome-signed.html",
+        "id": "welcome-signed",
+        "class": "step",
+        "data": {
+            "x": -8000,
+            "y": -10000,
+            "scale": 4,
+            "rotate": -180
+        }
     }
 ]
