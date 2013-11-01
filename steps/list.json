@@ -184,5 +184,38 @@
             "scale": 4,
             "rotate": -180
         }
+    },
+    {
+        "uri": "signed.html",
+        "id": "signed",
+        "class": "step",
+        "data": {
+            "x": -8000,
+            "y": -7000,
+            "scale": 4,
+            "rotate": -180
+        }
+    },
+    {
+        "uri": "signed-1.html",
+        "id": "signed-1",
+        "class": "step",
+        "data": {
+            "x": -11500,
+            "y": -7000,
+            "scale": 4,
+            "rotate": -180
+        }
+    },
+    {
+        "uri": "signed-2.html",
+        "id": "signed-2",
+        "class": "step",
+        "data": {
+            "x": -15000,
+            "y": -7000,
+            "scale": 4,
+            "rotate": -180
+        }
     }
 ]
