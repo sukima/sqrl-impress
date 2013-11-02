@@ -294,5 +294,16 @@
             "scale": 2,
             "rotate": -90
         }
+    },
+    {
+        "uri": "links.html",
+        "id": "links",
+        "class": "step",
+        "data": {
+            "x": 2100,
+            "y": -8000,
+            "scale": 4,
+            "rotate": 0
+        }
     }
 ]
